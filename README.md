@@ -18,7 +18,7 @@
 
 ## Features
 
-The Flatdango Movie Theater provides the following features:
+The Flatdango Movie App provides the following features:
 - It also enables one to book a movie and shows the number of tickets remaining.
 - Display a list of Movies name.
 
@@ -35,7 +35,7 @@ To run Flatdango Movie Theatre App locally, follow these steps:
 
 #### You need to have vs-code, git installed in your machine, db.json server installed and postman
 
-1. git clone https://github.com/kipngenohaaron/Flatdango_Movie_App.git
+1. git clone https://github.com/kipngenohaaron/Flatdango_MovieApp.git
 2. git add .
 3. git commit -m "first commit"
 4. git push origin master
