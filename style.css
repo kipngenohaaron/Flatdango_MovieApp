@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  background-color: #f79d49;
+  background-color: #f3b77f;
   color: #050b4f;
   padding: 10px;
   text-align: center;
@@ -18,7 +18,7 @@ main {
 aside {
   flex: 1;
   padding: 20px;
-  background-color: #f2ebeb;
+  background-color: #ece1e1;
   border-radius: 5px;
 }
 aside h2 {

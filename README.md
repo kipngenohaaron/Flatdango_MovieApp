@@ -56,6 +56,7 @@ To run Flatdango Movie Theatre App locally, follow these steps:
 ### For more information you can reach out; Email: kipngenohaaron@gmail.com
 #### 0724279400 / 0724828197 / 0101121100
 ## LInk to live 
+https://kipngenohaaron.github.io/Flatdango_MovieApp/
 
 ## License
 MIT License
